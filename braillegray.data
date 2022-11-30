@@ -1,0 +1,5 @@
+classes=26
+train  = data/braillegraytrain.txt
+valid  = data/braillegrayvalid.txt
+names = data/braillegray.names
+backup = backup/
